@@ -1,2 +1,2 @@
 # my-sample-repo
-Git練習用mac
+更新
